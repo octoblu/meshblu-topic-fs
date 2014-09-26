@@ -1,4 +1,13 @@
-meshblu-topic-fs
-================
+meshblu-fs
+==========
 
-FileSystem for subscribing to Meshblu topics
+Filesystem for Meshblu
+
+Installation
+------------
+
+### OSX
+
+Install [osxfuse](http://osxfuse.github.io/)
+
+mkdir /tmp/meshblu

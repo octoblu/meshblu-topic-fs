@@ -1,0 +1,29 @@
+{
+  "name": "meshblu-topic-fs",
+  "version": "0.0.1",
+  "description": "Filesystem for subscribing to Meshblu topics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/octoblu/meshblu-topic-fs.git"
+  },
+  "keywords": [
+    "meshblu"
+  ],
+  "author": "Octoblu Inc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/octoblu/meshblu-topic-fs/issues"
+  },
+  "homepage": "https://github.com/octoblu/meshblu-topic-fs",
+  "dependencies": {
+    "fuse4js": "~0.1.9",
+    "coffee-script": "~1.8.0",
+    "commander": "~2.3.0",
+    "skynet": "0.0.47",
+    "lodash": "~2.4.1"
+  }
+}
